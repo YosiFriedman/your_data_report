@@ -1,0 +1,699 @@
+{
+
+"companies":[
+    {
+        "display_name": "GameSys", 
+        "id": 1, 
+        "name": "gamesys"
+    }, 
+    {
+        "display_name": "Playtika", 
+        "id": 2, 
+        "name": "playtika"
+    }, 
+    {
+        "display_name": "Disney", 
+        "id": 3, 
+        "name": "disney"
+    }, 
+    {
+        "display_name": "Twitter", 
+        "id": 4, 
+        "name": "twitter"
+    }, 
+    {
+        "display_name": "King", 
+        "id": 5, 
+        "name": "king"
+    }, 
+    {
+        "display_name": "Kabam", 
+        "id": 6, 
+        "name": "kabam"
+    }, 
+    {
+        "display_name": "Car Jump", 
+        "id": 7, 
+        "name": "carjump"
+    }, 
+    {
+        "display_name": "Play Studios", 
+        "id": 8, 
+        "name": "playstudios"
+    }
+],
+"countries":[
+    [
+        {
+            "installs": 13452, 
+            "country": "United States", 
+            "cost": 25000, 
+            "iso": "US", 
+            "revenue": 20000
+        }, 
+        {
+            "installs": 9488, 
+            "country": "United Kingdom", 
+            "cost": 16002, 
+            "iso": "UK", 
+            "revenue": 11978
+        }, 
+        {
+            "installs": 11394, 
+            "country": "Japan", 
+            "cost": 12495, 
+            "iso": "JP", 
+            "revenue": 17564
+        }, 
+        {
+            "installs": 700, 
+            "country": "Belgium", 
+            "cost": 1500, 
+            "iso": "BE", 
+            "revenue": 622
+        }, 
+        {
+            "installs": 863, 
+            "country": "Brazil", 
+            "cost": 423, 
+            "iso": "BR", 
+            "revenue": 511
+        }, 
+        {
+            "installs": 11033, 
+            "country": "China", 
+            "cost": 14392, 
+            "iso": "CN", 
+            "revenue": 1500
+        }, 
+        {
+            "installs": 4520, 
+            "country": "Germany", 
+            "cost": 7520, 
+            "iso": "DE", 
+            "revenue": 8300
+        }, 
+        {
+            "installs": 200, 
+            "country": "Hungary", 
+            "cost": 350, 
+            "iso": "HU", 
+            "revenue": 100
+        }, 
+        {
+            "installs": 200, 
+            "country": "Finland", 
+            "cost": 390, 
+            "iso": "FI", 
+            "revenue": 500
+        }
+    ]
+    ],
+    "company":[
+        
+            
+                {
+                    "display_name":"GameSys",
+                    "installs": 1157, 
+                    "country": "United States", 
+                    "cost": 1168, 
+                    "iso": "US", 
+                    "revenue": 1284
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 880, 
+                    "country": "United Kingdom", 
+                    "cost": 862, 
+                    "iso": "UK", 
+                    "revenue": 1060
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 1101, 
+                    "country": "Japan", 
+                    "cost": 1266, 
+                    "iso": "JP", 
+                    "revenue": 1228
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 25, 
+                    "country": "Belgium", 
+                    "cost": 26, 
+                    "iso": "BE", 
+                    "revenue": 25
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 27, 
+                    "country": "Brazil", 
+                    "cost": 24, 
+                    "iso": "BR", 
+                    "revenue": 14
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 929, 
+                    "country": "China", 
+                    "cost": 845, 
+                    "iso": "CN", 
+                    "revenue": 912
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 113, 
+                    "country": "Germany", 
+                    "cost": 102, 
+                    "iso": "DE", 
+                    "revenue": 70
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 13, 
+                    "country": "Hungary", 
+                    "cost": 10, 
+                    "iso": "HU", 
+                    "revenue": 10
+                }, 
+                {
+                    "display_name":"GameSys",
+                    "installs": 15, 
+                    "country": "Finland", 
+                    "cost": 12, 
+                    "iso": "FI", 
+                    "revenue": 7
+                },
+                {
+                    "display_name":"GameSys",
+                    "installs": 101, 
+                    "country": "United States", 
+                    "cost": 83, 
+                    "iso": "US", 
+                    "revenue": 84
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 289, 
+                    "country": "United Kingdom", 
+                    "cost": 262, 
+                    "iso": "UK", 
+                    "revenue": 262
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 806, 
+                    "country": "Japan", 
+                    "cost": 725, 
+                    "iso": "JP", 
+                    "revenue": 500
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 56, 
+                    "country": "Belgium", 
+                    "cost": 48, 
+                    "iso": "BE", 
+                    "revenue": 40
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 48, 
+                    "country": "Brazil", 
+                    "cost": 38, 
+                    "iso": "BR", 
+                    "revenue": 52
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 1008, 
+                    "country": "China", 
+                    "cost": 887, 
+                    "iso": "CN", 
+                    "revenue": 603
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 44, 
+                    "country": "Germany", 
+                    "cost": 46, 
+                    "iso": "DE", 
+                    "revenue": 24
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 18, 
+                    "country": "Hungary", 
+                    "cost": 15, 
+                    "iso": "HU", 
+                    "revenue": 11
+                }, 
+                {
+                    "display_name":"Playtika",
+                    "installs": 12, 
+                    "country": "Finland", 
+                    "cost": 14, 
+                    "iso": "FI", 
+                    "revenue": 9
+                },
+
+                {
+                    "display_name":"Disney",
+                    "installs": 909, 
+                    "country": "United States", 
+                    "cost": 1063, 
+                    "iso": "US", 
+                    "revenue": 786
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 24, 
+                    "country": "United Kingdom", 
+                    "cost": 22, 
+                    "iso": "UK", 
+                    "revenue": 15
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 512, 
+                    "country": "Japan", 
+                    "cost": 609, 
+                    "iso": "JP", 
+                    "revenue": 420
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 36, 
+                    "country": "Belgium", 
+                    "cost": 34, 
+                    "iso": "BE", 
+                    "revenue": 25
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 51, 
+                    "country": "Brazil", 
+                    "cost": 55, 
+                    "iso": "BR", 
+                    "revenue": 71
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 79, 
+                    "country": "China", 
+                    "cost": 86, 
+                    "iso": "CN", 
+                    "revenue": 49
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 207, 
+                    "country": "Germany", 
+                    "cost": 231, 
+                    "iso": "DE", 
+                    "revenue": 291
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 15, 
+                    "country": "Hungary", 
+                    "cost": 12, 
+                    "iso": "HU", 
+                    "revenue": 16
+                }, 
+                {
+                    "display_name":"Disney",
+                    "installs": 17, 
+                    "country": "Finland", 
+                    "cost": 19, 
+                    "iso": "FI", 
+                    "revenue": 10
+                },
+
+                {
+                    "display_name":"Twitter",
+                    "installs": 199, 
+                    "country": "United States", 
+                    "cost": 232, 
+                    "iso": "US", 
+                    "revenue": 141
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 736, 
+                    "country": "United Kingdom", 
+                    "cost": 853, 
+                    "iso": "UK", 
+                    "revenue": 622
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 485, 
+                    "country": "Japan", 
+                    "cost": 436, 
+                    "iso": "JP", 
+                    "revenue": 388
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 65, 
+                    "country": "Belgium", 
+                    "cost": 54, 
+                    "iso": "BE", 
+                    "revenue": 44
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 10, 
+                    "country": "Brazil", 
+                    "cost": 10, 
+                    "iso": "BR", 
+                    "revenue": 9
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 949, 
+                    "country": "China", 
+                    "cost": 787, 
+                    "iso": "CN", 
+                    "revenue": 1180
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 400, 
+                    "country": "Germany", 
+                    "cost": 432, 
+                    "iso": "DE", 
+                    "revenue": 643
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 20, 
+                    "country": "Hungary", 
+                    "cost": 17, 
+                    "iso": "HU", 
+                    "revenue": 14
+                }, 
+                {
+                    "display_name":"Twitter",
+                    "installs": 17, 
+                    "country": "Finland", 
+                    "cost": 16, 
+                    "iso": "FI", 
+                    "revenue": 20
+                },
+                {
+                    "display_name":"King",
+                    "installs": 597, 
+                    "country": "United States", 
+                    "cost": 632, 
+                    "iso": "US", 
+                    "revenue": 385
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 152, 
+                    "country": "United Kingdom", 
+                    "cost": 173, 
+                    "iso": "UK", 
+                    "revenue": 226
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 796, 
+                    "country": "Japan", 
+                    "cost": 716, 
+                    "iso": "JP", 
+                    "revenue": 508
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 48, 
+                    "country": "Belgium", 
+                    "cost": 44, 
+                    "iso": "BE", 
+                    "revenue": 57
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 85, 
+                    "country": "Brazil", 
+                    "cost": 96, 
+                    "iso": "BR", 
+                    "revenue": 123
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 1018, 
+                    "country": "China", 
+                    "cost": 967, 
+                    "iso": "CN", 
+                    "revenue": 986
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 73, 
+                    "country": "Germany", 
+                    "cost": 70, 
+                    "iso": "DE", 
+                    "revenue": 43
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 20, 
+                    "country": "Hungary", 
+                    "cost": 19, 
+                    "iso": "HU", 
+                    "revenue": 25
+                }, 
+                {
+                    "display_name":"King",
+                    "installs": 17, 
+                    "country": "Finland", 
+                    "cost": 18, 
+                    "iso": "FI", 
+                    "revenue": 9
+                },
+                {
+                    "display_name":"Kabam",
+                    "installs": 280, 
+                    "country": "United States", 
+                    "cost": 313, 
+                    "iso": "US", 
+                    "revenue": 162
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 177, 
+                    "country": "United Kingdom", 
+                    "cost": 177, 
+                    "iso": "UK", 
+                    "revenue": 109
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 71, 
+                    "country": "Japan", 
+                    "cost": 57, 
+                    "iso": "JP", 
+                    "revenue": 78
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 13, 
+                    "country": "Belgium", 
+                    "cost": 10, 
+                    "iso": "BE", 
+                    "revenue": 6
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 20, 
+                    "country": "Brazil", 
+                    "cost": 18, 
+                    "iso": "BR", 
+                    "revenue": 10
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 450, 
+                    "country": "China", 
+                    "cost": 409, 
+                    "iso": "CN", 
+                    "revenue": 609
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 421, 
+                    "country": "Germany", 
+                    "cost": 437, 
+                    "iso": "DE", 
+                    "revenue": 611
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 13, 
+                    "country": "Hungary", 
+                    "cost": 14, 
+                    "iso": "HU", 
+                    "revenue": 20
+                }, 
+                {
+                    "display_name":"Kabam",
+                    "installs": 19, 
+                    "country": "Finland", 
+                    "cost": 15, 
+                    "iso": "FI", 
+                    "revenue": 12
+                },
+
+                {
+                    "display_name":"Car Jump",
+                    "installs": 802, 
+                    "country": "United States", 
+                    "cost": 745, 
+                    "iso": "US", 
+                    "revenue": 536
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 884, 
+                    "country": "United Kingdom", 
+                    "cost": 910, 
+                    "iso": "UK", 
+                    "revenue": 1028
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 632, 
+                    "country": "Japan", 
+                    "cost": 575, 
+                    "iso": "JP", 
+                    "revenue": 350
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 63, 
+                    "country": "Belgium", 
+                    "cost": 67, 
+                    "iso": "BE", 
+                    "revenue": 45
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 76, 
+                    "country": "Brazil", 
+                    "cost": 80, 
+                    "iso": "BR", 
+                    "revenue": 102
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 324, 
+                    "country": "China", 
+                    "cost": 314, 
+                    "iso": "CN", 
+                    "revenue": 194
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 216, 
+                    "country": "Germany", 
+                    "cost": 216, 
+                    "iso": "DE", 
+                    "revenue": 183
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 15, 
+                    "country": "Hungary", 
+                    "cost": 12, 
+                    "iso": "HU", 
+                    "revenue": 11
+                }, 
+                {
+                    "display_name":"Car Jump",
+                    "installs": 17, 
+                    "country": "Finland", 
+                    "cost": 18, 
+                    "iso": "FI", 
+                    "revenue": 24
+                },
+
+                {
+                    "display_name":"Play Studios",
+                    "installs": 395, 
+                    "country": "United States", 
+                    "cost": 450, 
+                    "iso": "US", 
+                    "revenue": 616
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 916, 
+                    "country": "United Kingdom", 
+                    "cost": 1080, 
+                    "iso": "UK", 
+                    "revenue": 1015
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 680, 
+                    "country": "Japan", 
+                    "cost": 571, 
+                    "iso": "JP", 
+                    "revenue": 536
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 46, 
+                    "country": "Belgium", 
+                    "cost": 42, 
+                    "iso": "BE", 
+                    "revenue": 36
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 77, 
+                    "country": "Brazil", 
+                    "cost": 66, 
+                    "iso": "BR", 
+                    "revenue": 65
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 857, 
+                    "country": "China", 
+                    "cost": 737, 
+                    "iso": "CN", 
+                    "revenue": 1039
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 337, 
+                    "country": "Germany", 
+                    "cost": 357, 
+                    "iso": "DE", 
+                    "revenue": 321
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 17, 
+                    "country": "Hungary", 
+                    "cost": 16, 
+                    "iso": "HU", 
+                    "revenue": 10
+                }, 
+                {
+                    "display_name":"Play Studios",
+                    "installs": 14, 
+                    "country": "Finland", 
+                    "cost": 13, 
+                    "iso": "FI", 
+                    "revenue": 14
+                }
+
+            ] 
+        
+    
+}
